@@ -9,7 +9,7 @@ CRUD is an acronym that stands for Create, Read, Update, and Delete, and it repr
 
 4. Delete: The Delete operation is used to remove data from a database. It is typically employed when a record or entry is no longer needed or has become obsolete.
 
-#Installation and Setup
+# Installation and Setup
 
 1. Download the files.
 
